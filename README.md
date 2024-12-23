@@ -51,8 +51,8 @@ The project displays products from different categories. Each category has its o
 
 ## Screenshots
 
-(Add images/screenshots of your website here, if desired.)
-![image](https://github.com/user-attachments/assets/3161393c-c12f-491b-af60-df59642cc39c)
+
+<img width="943" alt="fpp" src="https://github.com/user-attachments/assets/c88b69e8-84d0-4c4d-9fbc-bfb6fbe619b8" />
 
 
 ## Contributing
